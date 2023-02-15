@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey! I'm Tim,
+
+🏋🏻 Im currently working on working with back-end functionality
+📖 I'm currently learning Mongoose, and Express
+⁉️ I'm always open for help on projects
+
+
+
+https://www.linkedin.com/in/timothystrom/
+
+timothystrom@pm.me
