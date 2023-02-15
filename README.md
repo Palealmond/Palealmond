@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Tim,<br><br>🏋🏻 Im currently working on working with back-end functionality<br>📖 I'm currently learning Mongoose, and Express<br>⁉️ I'm always open for help on projects<br>learning<br>ask me about<br>funfact
+Hey! I'm Tim,<br><br>🏋🏻 Im currently working on working with back-end functionality<br>📖 I'm currently learning Mongoose, and Express<br>⁉️ I'm always open for help on projects!<br>I would like to sharpen my skills with MySQL and C++ atm.<br>🗡️ Ask me about FromSoftware games<br> USMC Veteran and Fordham Univerity Alumni.
 
 
 # 💻 Tech Stack:
@@ -16,11 +16,6 @@ Hey! I'm Tim,<br><br>🏋🏻 Im currently working on working with back-end func
 [![](https://visitcount.itsvg.in/api?id=Palealmond&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Hey! I'm Tim,
-
-🏋🏻 Im currently working on working with back-end functionality
-📖 I'm currently learning Mongoose, and Express
-⁉️ I'm always open for help on projects
 
 
 
