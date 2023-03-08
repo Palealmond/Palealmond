@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Tim,<br><br>🏋🏻 Im currently working on working with back-end functionality<br>📖 I'm currently learning Mongoose, and Express<br>⁉️ I'm always open for help on projects!<br>I would like to sharpen my skills with MySQL and C++ atm.<br>🗡️ Ask me about FromSoftware games<br> USMC Veteran and Fordham Univerity Alumni.
+Hey! I'm Tim,<br><br>🏋🏻 Im currently working with React.js<br>📖 I'm brushing up on my C++ and Java<br>⁉️ I'm always open for help on projects!<br>I would like to sharpen my skills with MySQL and C++ atm.<br>🗡️ Ask me about FromSoftware games<br> USMC Veteran and Fordham Univerity Alumni.
 
 
 # 💻 Tech Stack:
